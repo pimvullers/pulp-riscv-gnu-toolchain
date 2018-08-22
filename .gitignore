@@ -4,3 +4,7 @@ config.log
 config.status
 Makefile
 .DS_Store
+/build-gcc-newlib-stage1
+/build-newlib
+/build-binutils-newlib
+/stamps

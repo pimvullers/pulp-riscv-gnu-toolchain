@@ -1,6 +1,6 @@
 [submodule "riscv-binutils-gdb"]
 	path = riscv-binutils-gdb
-	url = https://github.com/pulp-platform/pulp-riscv-binutils-gdb.git
+	url = https://github.com/pimvullers/pulp-riscv-binutils-gdb.git
 [submodule "riscv-gcc"]
 	path = riscv-gcc
 	url = https://github.com/pulp-platform/pulp-riscv-gcc.git
